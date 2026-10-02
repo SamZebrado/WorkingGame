@@ -1,7 +1,7 @@
 # WorkingGame
-A project to compute daily working hours and lucky draw as bonus for working. This project will be built in my spare time as part of my coding training:)
+Historical design-only learning project from June 2020, proposing daily working-hour tracking and reward draws. This repository contains only this blueprint; the Python program and data files described below have not been implemented.
 
-# Design (updating):
+# Design (historical proposal):
 This blueprint is written in pseudo code to demonstrate the design of this project
 # Part 1. File List
 
